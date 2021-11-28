@@ -20,11 +20,12 @@ sinta-se livre para dar uma olhadinha nos arquivos "calc_novo.py" e "calculator.
 
 ----------------------------------------------------------------------------------------
 
+![image](https://user-images.githubusercontent.com/81519068/143778117-2f434709-9fbd-4548-9b53-2f7fb5856ded.png)
+
+----------------------------------------------------------------------------------------
+
  STUDY PROGRAMMING AND LIVE, KNOWLEDGE IS NOT A CRIME!
  
-![image](https://user-images.githubusercontent.com/81519068/143778058-349ab80c-956d-4685-9f27-ed60bd7daac0.png)
-
-
 Hello my name is Gustavo, better known as (Default Crypter) or ~Pirata | on the web!
 Pentester is a programming fanatic :)
 
